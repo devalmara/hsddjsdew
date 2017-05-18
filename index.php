@@ -1,3 +1,3 @@
 <?php
 
-header('Location: zenitbet.com');
+header('Location: http://zenitbet17.win');
